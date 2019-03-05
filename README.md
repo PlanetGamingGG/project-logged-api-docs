@@ -1,2 +1,2 @@
-# project-logged-api-docs
-Documentation for the Project LOGGED API
+# Project LOGGED API Documentation
+**Work in Progress**.
