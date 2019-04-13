@@ -1,2 +1,4 @@
 # Project LOGGED API Documentation
-**Work in Progress**.
+An API for MyOwnFreeHost and Project LOGGED 1.7+.
+
+Check the Wiki!
